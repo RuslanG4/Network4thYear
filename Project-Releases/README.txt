@@ -1,5 +1,7 @@
 Launch the Host EXE first and then connect with 2 client by opening 2 exe's.
 
+Use WASD to move
+
 Requirements met :
 Screen edge wrapping, Game freeze on collision, updated colors on both sides,
 Authorititve host of one player, bonus : Invisibility pick up using message types
