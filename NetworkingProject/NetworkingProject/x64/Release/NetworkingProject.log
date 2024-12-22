@@ -1,0 +1,73 @@
+﻿  AssetManager.cpp
+  Game.cpp
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(216,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(288,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(288,76): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(288,76): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(288,76): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(288,76): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(288,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(288,60): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(288,60): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(288,60): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(288,60): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(505,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(505,69): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(505,69): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(505,69): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(505,69): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(505,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(505,63): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(505,63): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(505,63): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(505,63): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(506,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(506,42): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(506,42): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(506,42): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(506,42): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(506,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(506,36): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(506,36): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(506,36): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(506,36): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(574,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(590,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\type_traits(1711,77): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\type_traits(1711,77):
+      the template instantiation context (the oldest one first) is
+          C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\Game.cpp(249,29):
+          see reference to function template instantiation 'std::thread::thread<void(__cdecl Game::* )(SOCKET,int),Game*,SOCKET&,unsigned __int64,0>(_Fn &&,Game *&&,SOCKET &,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Fn=void (__cdecl Game::* )(SOCKET,int)
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\thread(93,9):
+          see reference to function template instantiation 'void std::thread::_Start<_Ty,Game*,SOCKET&,unsigned __int64>(_Fn &&,Game *&&,SOCKET &,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=void (__cdecl Game::* )(SOCKET,int),
+              _Fn=void (__cdecl Game::* )(SOCKET,int)
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\thread(76,40):
+          see reference to function template instantiation 'unsigned int (__cdecl *std::thread::_Get_invoke<std::thread::_Start::_Tuple,0,1,2,3>(std::integer_sequence<size_t,0,1,2,3>) noexcept)(void *) noexcept' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\thread(67,17):
+          see reference to function template instantiation 'unsigned int std::thread::_Invoke<std::thread::_Start::_Tuple,0,1,2,3>(void *) noexcept' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\thread(60,14):
+          see reference to function template instantiation 'void std::invoke<void(__cdecl Game::* )(SOCKET,int),Game*,unsigned __int64,unsigned __int64>(_Callable &&,_Ty1 &&,unsigned __int64 &&,unsigned __int64 &&) noexcept(false)' being compiled
+          with
+          [
+              _Callable=void (__cdecl Game::* )(SOCKET,int),
+              _Ty1=Game *
+          ]
+  
+  InvisibilityPickUp.cpp
+  main.cpp
+C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\NetworkingProject\main.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1234 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NetworkingProject.vcxproj -> C:\Users\rusla\Desktop\New folder (8)\NetworkingProject\x64\Release\NetworkingProject.exe

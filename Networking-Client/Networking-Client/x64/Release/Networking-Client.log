@@ -1,0 +1,31 @@
+﻿  Game.cpp
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(253,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(253,69): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(253,69): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(253,69): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(253,69): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(253,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(253,55): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(253,55): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(253,55): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(253,55): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(318,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(318,67): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(318,67): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(318,67): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(318,67): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(318,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(318,61): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(318,61): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(318,61): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\Game.cpp(318,61): warning C4244:         ]
+  InvisibilityPickUp.cpp
+  main.cpp
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\main.cpp(12,41): warning C4083: expected 'newline'; found identifier 'sa'
+C:\Users\rusla\Desktop\New folder (8)\Networking-Client\Networking-Client\main.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 357 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Networking-Client.vcxproj -> C:\Users\rusla\Desktop\New folder (8)\Networking-Client\x64\Release\Networking-Client.exe
