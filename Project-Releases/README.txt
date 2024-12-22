@@ -1,4 +1,4 @@
-Launch the server EXE first and then connect with the client.
+Launch the Host EXE first and then connect with 2 client by opening 2 exe's.
 
 Requirements met :
 Screen edge wrapping, Game freeze on collision, updated colors on both sides,

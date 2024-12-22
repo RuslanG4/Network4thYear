@@ -1,1 +1,28 @@
-﻿  Networking-Client.vcxproj -> C:\Users\rusla\Desktop\New folder (8)\Networking-Client\x64\Debug\Networking-Client.exe
+﻿  Game.cpp
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(253,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(253,69): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(253,69): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(253,69): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(253,69): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(253,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(253,55): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(253,55): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(253,55): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(253,55): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(318,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(318,67): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(318,67): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(318,67): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(318,67): warning C4244:         ]
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(318,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(318,61): warning C4244:         with
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(318,61): warning C4244:         [
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(318,61): warning C4244:             T=float
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\Game.cpp(318,61): warning C4244:         ]
+  InvisibilityPickUp.cpp
+  main.cpp
+C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\Networking-Client\main.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Generating Code...
+  LINK : C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\x64\Debug\Networking-Client.exe not found or not built by the last incremental link; performing full link
+  Networking-Client.vcxproj -> C:\Users\rusla\Desktop\New folder (10)\Network4thYear\Networking-Client\x64\Debug\Networking-Client.exe

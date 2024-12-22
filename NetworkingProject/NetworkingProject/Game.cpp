@@ -287,6 +287,7 @@ void Game::handleClient(SOCKET clientSocket, int playerIndex)
 				if (playerIndex < activePlayers.size() && activePlayers[playerIndex]) { //only update if there is an active player with an id
 					activePlayers[playerIndex]->move(sf::Vector2f(position->xVel, position->yVel)); // Move players
 					handleBoundary(activePlayers[playerIndex]); // Handle boundary
+					sendPlayerData(activePlayers[playerIndex]);
 				}
 			}
 		}
